@@ -1,0 +1,6 @@
+{
+  "name": "Vivo T2X 5G Headshot Panel Helper",
+  "description": "Sensitvity tuner, dynamic auto drag-up generator, and minimizable car HUD floating window helper customized for Vivo T2X 5G and Free Fire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
